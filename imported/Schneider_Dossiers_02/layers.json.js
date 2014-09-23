@@ -1,0 +1,373 @@
+window.__imported__ = window.__imported__ || {};
+window.__imported__["Schneider_Dossiers_02/layers.json.js"] = [
+	{
+		"id": 560,
+		"name": "BG",
+		"layerFrame": {
+			"x": 0,
+			"y": 0,
+			"width": 1331,
+			"height": 2504
+		},
+		"maskFrame": null,
+		"image": {
+			"path": "images/BG.png",
+			"frame": {
+				"x": 0,
+				"y": 0,
+				"width": 1331,
+				"height": 2504
+			}
+		},
+		"imageType": "png",
+		"children": [
+			
+		],
+		"modification": "733831000"
+	},
+	{
+		"id": 1539,
+		"name": "Home",
+		"layerFrame": {
+			"x": 0,
+			"y": 0,
+			"width": 1331,
+			"height": 2504
+		},
+		"maskFrame": null,
+		"image": {
+			"path": "images/Home.png",
+			"frame": {
+				"x": 413,
+				"y": 254,
+				"width": 448,
+				"height": 319
+			}
+		},
+		"imageType": "png",
+		"children": [
+			{
+				"id": 1536,
+				"name": "Intro-2",
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 1331,
+					"height": 2504
+				},
+				"maskFrame": null,
+				"image": {
+					"path": "images/Intro-2.png",
+					"frame": {
+						"x": 379,
+						"y": 210,
+						"width": 788,
+						"height": 322
+					}
+				},
+				"imageType": "png",
+				"children": [
+					
+				],
+				"modification": "128995411"
+			},
+			{
+				"id": 1524,
+				"name": "04",
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 1331,
+					"height": 2504
+				},
+				"maskFrame": null,
+				"image": {
+					"path": "images/04.png",
+					"frame": {
+						"x": 781,
+						"y": 1159,
+						"width": 370,
+						"height": 542
+					}
+				},
+				"imageType": "png",
+				"children": [
+					{
+						"id": 1523,
+						"name": "txt-7",
+						"layerFrame": {
+							"x": 0,
+							"y": 0,
+							"width": 1331,
+							"height": 2504
+						},
+						"maskFrame": null,
+						"image": {
+							"path": "images/txt-7.png",
+							"frame": {
+								"x": 810,
+								"y": 1190,
+								"width": 310,
+								"height": 157
+							}
+						},
+						"imageType": "png",
+						"children": [
+							
+						],
+						"modification": "1955837661"
+					},
+					{
+						"id": 1520,
+						"name": "btn-4",
+						"layerFrame": {
+							"x": 0,
+							"y": 0,
+							"width": 1331,
+							"height": 2504
+						},
+						"maskFrame": null,
+						"image": {
+							"path": "images/btn-4.png",
+							"frame": {
+								"x": 882,
+								"y": 1625,
+								"width": 162,
+								"height": 37
+							}
+						},
+						"imageType": "png",
+						"children": [
+							
+						],
+						"modification": "2111290360"
+					}
+				],
+				"modification": "1961567514"
+			},
+			{
+				"id": 1510,
+				"name": "03-2",
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 1331,
+					"height": 2504
+				},
+				"maskFrame": null,
+				"image": {
+					"path": "images/03-2.png",
+					"frame": {
+						"x": 395,
+						"y": 1159,
+						"width": 370,
+						"height": 541
+					}
+				},
+				"imageType": "png",
+				"children": [
+					{
+						"id": 1509,
+						"name": "txt-6",
+						"layerFrame": {
+							"x": 0,
+							"y": 0,
+							"width": 1331,
+							"height": 2504
+						},
+						"maskFrame": null,
+						"image": {
+							"path": "images/txt-6.png",
+							"frame": {
+								"x": 423,
+								"y": 1190,
+								"width": 318,
+								"height": 158
+							}
+						},
+						"imageType": "png",
+						"children": [
+							
+						],
+						"modification": "2080634608"
+					},
+					{
+						"id": 1506,
+						"name": "btn -2",
+						"layerFrame": {
+							"x": 0,
+							"y": 0,
+							"width": 1331,
+							"height": 2504
+						},
+						"maskFrame": null,
+						"image": {
+							"path": "images/btn -2.png",
+							"frame": {
+								"x": 499,
+								"y": 1625,
+								"width": 162,
+								"height": 37
+							}
+						},
+						"imageType": "png",
+						"children": [
+							
+						],
+						"modification": "305886568"
+					}
+				],
+				"modification": "1985847368"
+			},
+			{
+				"id": 1496,
+				"name": "02-2",
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 1331,
+					"height": 2504
+				},
+				"maskFrame": null,
+				"image": {
+					"path": "images/02-2.png",
+					"frame": {
+						"x": 781,
+						"y": 602,
+						"width": 370,
+						"height": 537
+					}
+				},
+				"imageType": "png",
+				"children": [
+					{
+						"id": 1494,
+						"name": "txt-5",
+						"layerFrame": {
+							"x": 0,
+							"y": 0,
+							"width": 1331,
+							"height": 2504
+						},
+						"maskFrame": null,
+						"image": {
+							"path": "images/txt-5.png",
+							"frame": {
+								"x": 826,
+								"y": 633,
+								"width": 306,
+								"height": 157
+							}
+						},
+						"imageType": "png",
+						"children": [
+							
+						],
+						"modification": "470705651"
+					},
+					{
+						"id": 1491,
+						"name": "btn ",
+						"layerFrame": {
+							"x": 0,
+							"y": 0,
+							"width": 1331,
+							"height": 2504
+						},
+						"maskFrame": null,
+						"image": {
+							"path": "images/btn .png",
+							"frame": {
+								"x": 882,
+								"y": 1060,
+								"width": 162,
+								"height": 37
+							}
+						},
+						"imageType": "png",
+						"children": [
+							
+						],
+						"modification": "2117387852"
+					}
+				],
+				"modification": "619122268"
+			},
+			{
+				"id": 1481,
+				"name": "01-2",
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 1331,
+					"height": 2504
+				},
+				"maskFrame": null,
+				"image": {
+					"path": "images/01-2.png",
+					"frame": {
+						"x": 395,
+						"y": 602,
+						"width": 370,
+						"height": 536
+					}
+				},
+				"imageType": "png",
+				"children": [
+					{
+						"id": 1479,
+						"name": "txt-4",
+						"layerFrame": {
+							"x": 0,
+							"y": 0,
+							"width": 1331,
+							"height": 2504
+						},
+						"maskFrame": null,
+						"image": {
+							"path": "images/txt-4.png",
+							"frame": {
+								"x": 427,
+								"y": 633,
+								"width": 306,
+								"height": 157
+							}
+						},
+						"imageType": "png",
+						"children": [
+							
+						],
+						"modification": "752705653"
+					},
+					{
+						"id": 1476,
+						"name": "btn-3",
+						"layerFrame": {
+							"x": 0,
+							"y": 0,
+							"width": 1331,
+							"height": 2504
+						},
+						"maskFrame": null,
+						"image": {
+							"path": "images/btn-3.png",
+							"frame": {
+								"x": 499,
+								"y": 1059,
+								"width": 162,
+								"height": 37
+							}
+						},
+						"imageType": "png",
+						"children": [
+							
+						],
+						"modification": "573767297"
+					}
+				],
+				"modification": "1811908217"
+			}
+		],
+		"modification": "724799298"
+	}
+]
