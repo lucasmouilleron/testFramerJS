@@ -12,8 +12,8 @@ function showAlert() {
 function loadApp() {
 
 	var scriptNode = document.createElement("script");
-	scriptNode.setAttribute("src", "app.coffee");
-	scriptNode.setAttribute("type", "text/coffeescript");
+	scriptNode.setAttribute("src", "app.js");
+	scriptNode.setAttribute("type", "text/javascript");
 
 	document.head.appendChild(scriptNode);
 };
